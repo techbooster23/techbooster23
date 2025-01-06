@@ -88,6 +88,6 @@ Contribute to open-source projects and build a strong GitHub presence.
 
 ##📫 Let's Connect
 
-# 💼 LinkedIn: https://www.linkedin.com/in/techbooster-akash-pawar
+### 💼 LinkedIn: https://www.linkedin.com/in/techbooster-akash-pawar
 
-# 📧 Email: akashpawar.dev@gmail.com
+### 📧 Email: akashpawar.dev@gmail.com
